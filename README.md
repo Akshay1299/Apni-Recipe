@@ -1,5 +1,4 @@
 # ApniRecipe
-## Project Demo link : (https://apni-recipe-7a6l-9l7yllhaq-rushikeshkhurpe.vercel.app/)\
 Deployed frontend on Netlify and Vercel
 
 Project bootstrapped with [Create React App]
